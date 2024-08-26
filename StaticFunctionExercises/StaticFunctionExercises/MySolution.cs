@@ -22,9 +22,9 @@ namespace StaticFunctionExercises
             int db=0;
             for(int x=1; x<=szam; x++)
             {
-                if (szam%x==0)
+                if (szam%x==1)
                 {
-                    db++
+                    db++;
                 }
             }
             return db;
