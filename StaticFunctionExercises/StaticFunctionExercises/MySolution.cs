@@ -13,8 +13,21 @@ using System.Runtime.CompilerServices;
 
 namespace StaticFunctionExercises
 {
-    internal class MySolution
+    public class MySolution
     {
-       
+    //Készítsen olyan statikus metódust, amely egy pozitív egész számot vesz át érték szerint és 
+    //visszaadja, hogy ennek a számnak hány pozitív osztója van. Függvény neve legyen OsztokSzama.
+        public int OsztokSzama(int szam)
+        {
+            int db=0;
+            for(int x=1; x<=szam; x++)
+            {
+                if (szam%x==0)
+                {
+                    db++;
+                }
+            }
+            return db;
+        }
     }
 }
