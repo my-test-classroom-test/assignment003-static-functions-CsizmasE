@@ -24,7 +24,7 @@ namespace StaticFunctionExercises
             {
                 if (szam%x==0)
                 {
-                    db++;
+                    db++
                 }
             }
             return db;

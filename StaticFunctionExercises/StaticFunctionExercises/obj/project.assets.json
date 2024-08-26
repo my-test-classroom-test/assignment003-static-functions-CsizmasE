@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\xy\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xy\\Desktop\\CSHARP_GITHUBCLASSROOM\\StaticFunctionExercises\\StaticFunctionExercises\\StaticFunctionExercises.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\my-test-classroom-test\\assignment003-static-functions-CsizmasE\\StaticFunctionExercises\\StaticFunctionExercises\\StaticFunctionExercises.csproj",
       "projectName": "StaticFunctionExercises",
-      "projectPath": "C:\\Users\\xy\\Desktop\\CSHARP_GITHUBCLASSROOM\\StaticFunctionExercises\\StaticFunctionExercises\\StaticFunctionExercises.csproj",
-      "packagesPath": "C:\\Users\\xy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xy\\Desktop\\CSHARP_GITHUBCLASSROOM\\StaticFunctionExercises\\StaticFunctionExercises\\obj\\",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\my-test-classroom-test\\assignment003-static-functions-CsizmasE\\StaticFunctionExercises\\StaticFunctionExercises\\StaticFunctionExercises.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\my-test-classroom-test\\assignment003-static-functions-CsizmasE\\StaticFunctionExercises\\StaticFunctionExercises\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\xy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,11 +40,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,12 +56,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
