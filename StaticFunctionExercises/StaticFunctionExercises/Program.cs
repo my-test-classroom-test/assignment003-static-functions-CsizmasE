@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(MySolution.OsztokSzama(1));
+            //Console.WriteLine(MySolution.OsztokSzama(25));
         }
     }
 }
